@@ -1,1 +1,1 @@
-# Interview questions about oAuth2 and OpenID Connect protocols
+# Interview questions: oAuth2 & OpenID Connect protocols
